@@ -1,7 +1,8 @@
 # Building dataset on mobile specifications using web scraping 
 ## Documents to look for:
-1) ProjectDSCII.ipynb - This is the Jupyter file which has the entire code to run. It is subdivided into two sub cells.a) Main cell having the web scraping code and 
-b) Having the code for writing into CSV. You need to open the file using Jupyter and run the cells one after the other.
+1) ProjectDSCII.ipynb - This is the Jupyter file which has the entire code to run. It is subdivided into two sub cells.
+       a) Main cell having the web scraping code and 
+       b) Having the code for writing into CSV. You need to open the file using Jupyter and run the cells one after the other.
 2) Creating Dataset Using Web Scraping.pptx - This Powerpoint presentation has generic overview of the project.
 3) Dataset.csv - This is the output dataset of the project.
 
